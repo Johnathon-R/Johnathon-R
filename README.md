@@ -2,7 +2,7 @@
   <tr>
     <td align="center">
       <h1>Johnathon Russell</h1>
-      <em>Math & Statistics Undergraduate student, University of Toronto</em>
+      <em>Math & Stats Undergrad student at University of Toronto</em>
     </td>
   </tr>
 </table>
@@ -33,4 +33,4 @@ HBSc in Mathematics and Statistics - *Expected Graduation, Apr 2028*
 **Platforms & Tools**: Git, GitHub, Vs Code, macOs  
 
 ## Let's Connect
-I'm open to research roles, internship opportunities, and collaboration on data-driven projects.
+I'm open to research roles, internships, and collaborating on projects.
